@@ -1,6 +1,6 @@
 # Asteroid-Risk-Project
 
-This project is based of https://www.kaggle.com/datasets/shrutimehta/nasa-asteroids-classification.
+This project is based on https://www.kaggle.com/datasets/shrutimehta/nasa-asteroids-classification.
 
 In this project,  our goal is to use Machine Learning binary classification to categorize whether an asteroid is hazardous or not. The data will be taken from NASA's Small-Body databse which contains data about approximately 32000 celestial objects close to Earth. I have chosen 42 of the variables to investigate, excluding all the irrelevant ones to the Machine Learning model I will be implementing such as asteroid ID. I uploaded the queried dataset with relevant variables onto https://git.ucsc.edu/jwidjaj1/phys-152/-/raw/master/HW3/asteroid_data.csv.
 
